@@ -135,10 +135,6 @@ public class MazeMain {
             }
             case "N": {
                 System.out.println("You stay put.");
-//                thanksForPlaying();
-//                String oof = "oof";
-//                return oof;
-                //DEATH IS A WORK IN PROGRESS
                 break;
             }
             default:{
